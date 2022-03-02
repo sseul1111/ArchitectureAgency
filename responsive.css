@@ -154,7 +154,7 @@
   .about-inner {
     height: auto;
     padding: 20px;
-    background: #0DACE3;
+    background: #0dace3;
   }
   .about-items {
     width: 100%;
@@ -167,6 +167,8 @@
     float: none;
   }
   /* ################# Section : plan  ##################*/
+
+  /* ################### Section : plan ################### */
   .plan-inner {
     height: auto;
     padding: 20px;
@@ -181,7 +183,7 @@
   }
   .plan-info {
     margin-bottom: 40px;
-  } 
+  }
   .plan-info > div {
     float: none;
     width: 100%;
@@ -194,7 +196,7 @@
     padding-right: 0;
   }
 
-  /* ################# Section : awards  ################# */
+  /* ################### Section : awards ################### */
   .awards-inner {
     height: auto;
   }
@@ -214,63 +216,4 @@
   .victory-jump {
     text-align: center;
   }
-
-  /* ################# Section : location  #################*/
-  .location-inner {
-    height: auto;
-  }
-  .feature {
-    width: 100%;
-    position: relative;
-    transform: none;
-    top: 0;
-    left: 0;
-  }
-  .feature > div {
-    float: none;
-    width: 100%;
-    padding: 20px;
-  }
-
-  /* #################### Section : contact  ####################*/
-  .contact-inner {
-    height: auto;
-  }
-  .contact-feature  {
-    width: 100%;
-    position: static;
-    transform: none;
-  }
-  .contact-feature > div {
-    float: none;
-    width: 100%;
-  }
-
-  /* ############## Section : project  ##############*/
-  .project-inner {
-    height: auto;
-    border: none;
-  }
-  .tab > div {
-    float: none;
-    width: 100%;
-  }
-  .view-project {
-    width: 100%;
-  }
-  .project-info {
-    padding: 20px;
-  }
-  .project-info p {
-    position: relative;
-  }
-  .detail div {
-    font-size: 13px;
-  }
-  .btn {
-    width: 100%;
-    bottom: 10px;
-  }
-
-
 }
