@@ -109,7 +109,7 @@ Header {
   height: 100%;
   top: 0;
   left: 0;
-  animation: overlay 1s 2s ease-in-out;
+  animation: overlay 1s 2s ease-in-out both;
 }
 .welcome-text {
   position: absolute;
@@ -142,7 +142,7 @@ Header {
 .home-heading {
   position: absolute;
   top: 50%;
-  margin-left: 250px;
+  left: 300px;
   transform: translateY(-50%);
 }
 .home-heading span {
